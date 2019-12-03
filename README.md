@@ -1,5 +1,4 @@
 # ROM
-Repozitorij za predmet ROM
-Scenka Marenka
+Projektna naloga.
 
-Dodal se še par krav.
+Za projektno nalogo bi imel kvadratno funkcijo. Opisal bi kakšne so kvadratne funkcije, kako so obrnjene, kako z njimi računamo).
